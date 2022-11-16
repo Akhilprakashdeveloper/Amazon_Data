@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category":"Phone"
+    },
+    {
+        "id":2,
+        "category":"Laptop"
+    },
+    {
+        "id":3,
+        "category":"Fashion"
+    },
+    {
+        "id":4,
+        "category":"HomeApplience"
+    },
+    {
+        "id":5,
+        "category":"Books"
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "id":1,
+        "product_name":"one plus 10 pro 5g",
+        "category":"Phone",
+        "category_id":1,
+        "ram":8,
+        "rom":128,
+        "price":61999,
+        "colour":"emereld forest",
+        "brand":"one plus",
+        "image":"https://i.ibb.co/N1B5YGq/oneplus.jpg"
+    },
+    {
+        "id":2,
+        "product_name":"redmi 10a",
+        "category":"Phone",
+        "category_id":1,
+        "ram":4,
+        "rom":64,
+        "price":8499,
+        "colour":"charcoal black",
+        "brand":"redmi",
+        "image":"https://i.ibb.co/TMVsJYg/redmi.jpg"
+    },
+    {
+        "id":3,
+        "product_name":"iqoo 9T 5g",
+        "category":"Phone",
+        "category_id":1,
+        "ram":12,
+        "rom":256,
+        "price":54999,
+        "colour":"legend",
+        "brand":"iqoo",
+        "image":"https://i.ibb.co/YWNpbwh/iqoo.jpg"
+    },
+    {
+        "id":4,
+        "product_name":"realme narzo 50pro 5g",
+        "category":"Phone",
+        "category_id":1,
+        "ram":6,
+        "rom":128,
+        "price":19999,
+        "colour":"hype blue",
+        "brand":"realme",
+        "image":"https://i.ibb.co/3kbsDTN/realme.jpg"
+    },
+    {
+        "id":5,
+        "product_name":"iphone 13 pro",
+        "category":"Phone",
+        "category_id":1,
+        "ram":6,
+        "rom":128,
+        "price":111900,
+        "colour":"graphite",
+        "brand":"apple",
+        "image":"https://i.ibb.co/ryDpDMJ/iphone.jpg"
+    },
+    {
+        "id":6 ,
+        "product_name":"hp 15s" ,
+        "category":"laptop",
+        "category_id":2,
+        "processor":"intel i3",
+        "ram":8,
+        "storage":512,
+        "brand":"hp",
+        "price":44000,
+        "image":"https://i.ibb.co/vLj09wC/hp.jpg"
+    },
+    {
+        "id":7,
+        "product_name":"lenovo ideapad slim 3",
+        "category":"laptop" ,
+        "category_id":2 ,
+        "processor": "intel i5",
+        "ram": 8,
+        "storage":512 ,
+        "brand":"lenovo" ,
+        "price":53000,
+        "image":"https://i.ibb.co/zZgNJj5/lenovo.jpg"
+
+    },
+    {
+        "id":8 ,
+        "product_name":"asus vivobook 15",
+        "category": "laptop",
+        "category_id":2,
+        "processor":"amd ryzen 3",
+        "ram":8,
+        "storage":256,
+        "brand":"asus",
+        "price":33000,
+        "image":"https://i.ibb.co/0hxfy0f/asus.jpg"
+
+    },
+    {
+        "id":9,
+        "product_name":"acer predator helios 300",
+        "category":"laptop",
+        "category_id":2,
+        "processor":"intel i9",
+        "ram":16,
+        "storage":1000,
+        "brand":"acer",
+        "price":125000,
+        "image":"https://i.ibb.co/vvSSnLt/acer.jpg"
+
+    },
+    {
+        "id":10,
+        "product_name":"2022 apple macBook air ",
+        "category":"laptop",
+        "category_id":2,
+        "processor":"bionic m2",
+        "ram":8,
+        "storage":512,
+        "brand":"apple",
+        "price":140000,
+        "image":"https://i.ibb.co/42L2wMB/apple.jpg"
+
+    },
+    {
+        "id":11,
+        "product_name":"Cazibe Men's Parka Coat",
+        "category":"fashion",
+        "category_id":3,
+        "type":"jacket",
+        "colour":"Khaki",
+        "brand":"Cazibe",
+        "price":950,
+        "image":"https://i.ibb.co/J2VVmZS/jacket.jpg"
+    },
+    {
+        "id":"12",
+        "product_name":"Men's Slim Fit Shirt",
+        "category":"fashion",
+        "category_id":3,
+        "type":"shirt",
+        "colour":"olive",
+        "brand":"Dennis Lingo",
+        "price":700,
+        "image":"https://i.ibb.co/Vg4g7Dx/shirt.jpg"
+    },
+    {
+        "id":13,
+        "product_name":"Women's Cotton Blend Printed Straight Kurta with Pant & Dupatta",
+        "category":"fashion",
+        "category_id":3,
+        "type":"kurta",
+        "colour":"blue",
+        "brand":"GoSriKi",
+        "price":700,
+        "image":"https://i.ibb.co/pQDQR44/kurta.jpg"
+    },
+    {
+        "id":14,
+        "product_name":"Men's Regular Fit Cotton Track Pants",
+        "category":"fashion",
+        "category_id":3,
+        "type":"pants",
+        "colour":"black",
+        "brand":"Levi's",
+        "price":1650,
+        "image":"https://i.ibb.co/3pbBSrZ/pants.jpg"
+    },
+    {
+        "id":15,
+        "product_name":"Women's Kanchipuram Raw Silk Saree",
+        "category":"fashion",
+        "category_id":3,
+        "type":"saree",
+        "colour":"Maroon",
+        "brand":"Generic",
+        "price":3000,
+        "image":"https://i.ibb.co/rQGCT4z/saree.jpg"
+    },
+    {
+        "id":16,
+        "product_name":"Havells Aqua Plus 1.2 litre Double Wall Kettle",
+        "category":"HomeApplience",
+        "category_id":4,
+        "type":"kettle",
+        "brand":"Havells",
+        "price":1499,
+        "image":"https://i.ibb.co/0sh060z/kettle.jpg"
+    },
+    {
+        "id":17,
+        "product_name":"Usha FP 3811 Food Processor 1000 Watts",
+        "category":"HomeApplience",
+        "category_id":4,
+        "type":"mixer grinder",
+        "brand":"usha",
+        "price":11490,
+        "image":"https://i.ibb.co/wz8rF1F/mixi.jpg" 
+    },
+    {
+        "id":18,
+        "product_name":" PIC 16.0+ 2000 W Induction Cooktop with Soft Touch Push Buttons",
+        "category":"HomeApplience",
+        "category_id":4,
+        "type":"induction cooktop",
+        "brand":"prestige",
+        "price":2744,
+        "image":"https://i.ibb.co/5X3NDG3/inductioncooker.jpg"
+    },
+    {
+        "id":19,
+        "product_name":" Cool Buddy 144 mm Personal Fan",
+        "category":"HomeApplience",
+        "category_id":4,
+        "type":"fan",
+        "brand":"Havells",
+        "price":1849,
+        "image":"https://i.ibb.co/Ln3KMKx/fan.jpg"
+    },
+    {
+        "id":20,
+        "product_name":"GC181 Heavy Weight 1000-Watt Dry Iron",
+        "category":"HomeApplience",
+        "category_id":4,
+        "type":"ironbox",
+        "brand":"Philips",
+        "price":1375,
+        "image":"https://i.ibb.co/5B9yGSr/ironbox.jpg"
+    }, 
+    {
+        "id":21,
+        "book_name":"This Charming Man",
+        "author":"Marian Keyes",
+        "category":"books",
+        "category_id":5,
+        "price":1328,
+        "image":"https://i.ibb.co/mq4zVqN/book1.jpg"
+    },
+    {
+        "id":22,
+        "book_name":"The Girl in the Glass Case: Keep your girls safe. Boys safer.",
+        "author":"Devashish Sardana",
+        "category":"books",
+        "category_id":5,
+        "price":156,
+        "image":"https://i.ibb.co/M6ygvfH/book2.jpg"
+    },   
+    {
+        "id":23,
+        "book_name":"Atomic Habits",
+        "author":"James Clear",
+        "category":"books",
+        "category_id":5,
+        "price":414,
+        "image":"https://i.ibb.co/wzPBBwx/book3.jpg"
+    },   
+    {
+        "id":24,
+        "book_name":"Harry Potter and the Chamber of Secrets",
+        "author":"J.K.Rowling",
+        "category":"books",
+        "category_id":5,
+        "price":1372,
+        "image":"https://i.ibb.co/DwJ8RQC/book4.jpg"
+    },  
+    {
+        "id":25,
+        "book_name":"The Canterville Ghost",
+        "author":"oscar Wilde",
+        "category":"books",
+        "category_id":5,
+        "price":89,
+        "image":"https://i.ibb.co/pLBkkwp/book5.webp"  
+    }  
+]
